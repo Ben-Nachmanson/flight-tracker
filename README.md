@@ -2,7 +2,9 @@
 
 A real-time LED sign that lights up when flights pass over Mission Beach, San Diego. Built with Python FastAPI backend and a web-based LED sign simulator.
 
-![Flight Tracker Dashboard](preview.png)
+**Live Demo:** http://localhost:8000 (run locally)
+
+![Flight Tracker Dashboard](screenshot.png)
 
 ## Features
 
